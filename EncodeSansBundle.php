@@ -1,6 +1,6 @@
 <?php
 
-namespace UAM\Fonts\EncodeSans;
+namespace UAM\Font\EncodeSans;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
