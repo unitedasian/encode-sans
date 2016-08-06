@@ -1,0 +1,89 @@
+@font-face {
+	font-family: "Encode Sans Compressed";
+	src: url("../fonts/compressed/EncodeSansCompressed-Regular.eot");
+	src: url("../fonts/compressed/EncodeSansCompressed-Regular.woff") format("woff"), 
+		 url("../fonts/compressed/EncodeSansCompressed-Regular.ttf") format("truetype"), 
+		 url("../fonts/compressed/EncodeSansCompressed-Regular.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Encode Sans Compressed";
+	src: url("../fonts/compressed/EncodeSansCompressed-Medium.eot");
+	src: url("../fonts/compressed/EncodeSansCompressed-Medium.woff") format("woff"), 
+		 url("../fonts/compressed/EncodeSansCompressed-Medium.ttf") format("truetype"), 
+		 url("../fonts/compressed/EncodeSansCompressed-Medium.svg") format("svg");
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Encode Sans Compressed";
+	src: url("../fonts/compressed/EncodeSansCompressed-SemiBold.eot");
+	src: url("../fonts/compressed/EncodeSansCompressed-SemiBold.woff") format("woff"), 
+		 url("../fonts/compressed/EncodeSansCompressed-SemiBold.ttf") format("truetype"), 
+		 url("../fonts/compressed/EncodeSansCompressed-SemiBold.svg") format("svg");
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Encode Sans Compressed";
+	src: url("../fonts/compressed/EncodeSansCompressed-Bold.eot");
+	src: url("../fonts/compressed/EncodeSansCompressed-Bold.woff") format("woff"),
+		 url("../fonts/compressed/EncodeSansCompressed-Bold.ttf") format("truetype"),
+		 url("../fonts/compressed/EncodeSansCompressed-Bold.svg") format("svg");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Encode Sans Compressed";
+	src: url("../fonts/compressed/EncodeSansCompressed-ExtraBold.eot");
+	src: url("../fonts/compressed/EncodeSansCompressed-ExtraBold.woff") format("woff"), 
+		 url("../fonts/compressed/EncodeSansCompressed-ExtraBold.ttf") format("truetype"), 
+		 url("../fonts/compressed/EncodeSansCompressed-ExtraBold.svg") format("svg");
+	font-weight: 800;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Encode Sans Compressed";
+	src: url("../fonts/compressed/EncodeSansCompressed-Black.eot");
+	src: url("../fonts/compressed/EncodeSansCompressed-Black.woff") format("woff"), 
+		 url("../fonts/compressed/EncodeSansCompressed-Black.ttf") format("truetype"), 
+		 url("../fonts/compressed/EncodeSansCompressed-Black.svg") format("svg");
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Encode Sans Compressed";
+	src: url("../fonts/compressed/EncodeSansCompressed-Light.eot");
+	src: url("../fonts/compressed/EncodeSansCompressed-Light.woff") format("woff"), 
+		 url("../fonts/compressed/EncodeSansCompressed-Light.ttf") format("truetype"), 
+		 url("../fonts/compressed/EncodeSansCompressed-Light.svg") format("svg");
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Encode Sans Compressed";
+	src: url("../fonts/compressed/EncodeSansCompressed-ExtraLight.eot");
+	src: url("../fonts/compressed/EncodeSansCompressed-ExtraLight.woff") format("woff"), 
+		 url("../fonts/compressed/EncodeSansCompressed-ExtraLight.ttf") format("truetype"), 
+		 url("../fonts/compressed/EncodeSansCompressed-ExtraLight.svg") format("svg");
+	font-weight: 200;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Encode Sans Compressed";
+	src: url("../fonts/compressed/EncodeSansCompressed-Thin.eot");
+	src: url("../fonts/compressed/EncodeSansCompressed-Thin.woff") format("woff"), 
+		 url("../fonts/compressed/EncodeSansCompressed-Thin.ttf") format("truetype"), 
+		 url("../fonts/compressed/EncodeSansCompressed-Thin.svg") format("svg");
+	font-weight: 200;
+	font-style: normal;
+}

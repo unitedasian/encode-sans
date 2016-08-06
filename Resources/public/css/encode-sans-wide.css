@@ -1,0 +1,89 @@
+@font-face {
+	font-family: "Encode Sans Wide";
+	src: url("../fonts/wide/EncodeSansWide-Regular.eot");
+	src: url("../fonts/wide/EncodeSansWide-Regular.woff") format("woff"), 
+		 url("../fonts/wide/EncodeSansWide-Regular.ttf") format("truetype"), 
+		 url("../fonts/wide/EncodeSansWide-Regular.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Encode Sans Wide";
+	src: url("../fonts/wide/EncodeSansWide-Medium.eot");
+	src: url("../fonts/wide/EncodeSansWide-Medium.woff") format("woff"), 
+		 url("../fonts/wide/EncodeSansWide-Medium.ttf") format("truetype"), 
+		 url("../fonts/wide/EncodeSansWide-Medium.svg") format("svg");
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Encode Sans Wide";
+	src: url("../fonts/wide/EncodeSansWide-SemiBold.eot");
+	src: url("../fonts/wide/EncodeSansWide-SemiBold.woff") format("woff"), 
+		 url("../fonts/wide/EncodeSansWide-SemiBold.ttf") format("truetype"), 
+		 url("../fonts/wide/EncodeSansWide-SemiBold.svg") format("svg");
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Encode Sans Wide";
+	src: url("../fonts/wide/EncodeSansWide-Bold.eot");
+	src: url("../fonts/wide/EncodeSansWide-Bold.woff") format("woff"),
+		 url("../fonts/wide/EncodeSansWide-Bold.ttf") format("truetype"),
+		 url("../fonts/wide/EncodeSansWide-Bold.svg") format("svg");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Encode Sans Wide";
+	src: url("../fonts/wide/EncodeSansWide-ExtraBold.eot");
+	src: url("../fonts/wide/EncodeSansWide-ExtraBold.woff") format("woff"), 
+		 url("../fonts/wide/EncodeSansWide-ExtraBold.ttf") format("truetype"), 
+		 url("../fonts/wide/EncodeSansWide-ExtraBold.svg") format("svg");
+	font-weight: 800;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Encode Sans Wide";
+	src: url("../fonts/wide/EncodeSansWide-Black.eot");
+	src: url("../fonts/wide/EncodeSansWide-Black.woff") format("woff"), 
+		 url("../fonts/wide/EncodeSansWide-Black.ttf") format("truetype"), 
+		 url("../fonts/wide/EncodeSansWide-Black.svg") format("svg");
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Encode Sans Wide";
+	src: url("../fonts/wide/EncodeSansWide-Light.eot");
+	src: url("../fonts/wide/EncodeSansWide-Light.woff") format("woff"), 
+		 url("../fonts/wide/EncodeSansWide-Light.ttf") format("truetype"), 
+		 url("../fonts/wide/EncodeSansWide-Light.svg") format("svg");
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Encode Sans Wide";
+	src: url("../fonts/wide/EncodeSansWide-ExtraLight.eot");
+	src: url("../fonts/wide/EncodeSansWide-ExtraLight.woff") format("woff"), 
+		 url("../fonts/wide/EncodeSansWide-ExtraLight.ttf") format("truetype"), 
+		 url("../fonts/wide/EncodeSansWide-ExtraLight.svg") format("svg");
+	font-weight: 200;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Encode Sans Wide";
+	src: url("../fonts/wide/EncodeSansWide-Thin.eot");
+	src: url("../fonts/wide/EncodeSansWide-Thin.woff") format("woff"), 
+		 url("../fonts/wide/EncodeSansWide-Thin.ttf") format("truetype"), 
+		 url("../fonts/wide/EncodeSansWide-Thin.svg") format("svg");
+	font-weight: 200;
+	font-style: normal;
+}
