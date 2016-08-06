@@ -1,0 +1,5 @@
+satis:
+    script:
+        - satis fonts
+    tags:
+        - satis
