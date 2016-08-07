@@ -1,8 +1,8 @@
 @font-face {
 	font-family: "Encode Sans Condensed";
 	src: url("../fonts/condensed/EncodeSansCondensed-Regular.eot");
-	src: url("../fonts/condensed/EncodeSansCondensed-Regular.woff") format("woff"), 
-		 url("../fonts/condensed/EncodeSansCondensed-Regular.ttf") format("truetype"), 
+	src: url("../fonts/condensed/EncodeSansCondensed-Regular.woff") format("woff"),
+		 url("../fonts/condensed/EncodeSansCondensed-Regular.ttf") format("truetype"),
 		 url("../fonts/condensed/EncodeSansCondensed-Regular.svg") format("svg");
 	font-weight: normal;
 	font-style: normal;
@@ -11,8 +11,8 @@
 @font-face {
 	font-family: "Encode Sans Condensed";
 	src: url("../fonts/condensed/EncodeSansCondensed-Medium.eot");
-	src: url("../fonts/condensed/EncodeSansCondensed-Medium.woff") format("woff"), 
-		 url("../fonts/condensed/EncodeSansCondensed-Medium.ttf") format("truetype"), 
+	src: url("../fonts/condensed/EncodeSansCondensed-Medium.woff") format("woff"),
+		 url("../fonts/condensed/EncodeSansCondensed-Medium.ttf") format("truetype"),
 		 url("../fonts/condensed/EncodeSansCondensed-Medium.svg") format("svg");
 	font-weight: 500;
 	font-style: normal;
@@ -21,8 +21,8 @@
 @font-face {
 	font-family: "Encode Sans Condensed";
 	src: url("../fonts/condensed/EncodeSansCondensed-SemiBold.eot");
-	src: url("../fonts/condensed/EncodeSansCondensed-SemiBold.woff") format("woff"), 
-		 url("../fonts/condensed/EncodeSansCondensed-SemiBold.ttf") format("truetype"), 
+	src: url("../fonts/condensed/EncodeSansCondensed-SemiBold.woff") format("woff"),
+		 url("../fonts/condensed/EncodeSansCondensed-SemiBold.ttf") format("truetype"),
 		 url("../fonts/condensed/EncodeSansCondensed-SemiBold.svg") format("svg");
 	font-weight: 600;
 	font-style: normal;
@@ -41,8 +41,8 @@
 @font-face {
 	font-family: "Encode Sans Condensed";
 	src: url("../fonts/condensed/EncodeSansCondensed-ExtraBold.eot");
-	src: url("../fonts/condensed/EncodeSansCondensed-ExtraBold.woff") format("woff"), 
-		 url("../fonts/condensed/EncodeSansCondensed-ExtraBold.ttf") format("truetype"), 
+	src: url("../fonts/condensed/EncodeSansCondensed-ExtraBold.woff") format("woff"),
+		 url("../fonts/condensed/EncodeSansCondensed-ExtraBold.ttf") format("truetype"),
 		 url("../fonts/condensed/EncodeSansCondensed-ExtraBold.svg") format("svg");
 	font-weight: 800;
 	font-style: normal;
@@ -51,8 +51,8 @@
 @font-face {
 	font-family: "Encode Sans Condensed";
 	src: url("../fonts/condensed/EncodeSansCondensed-Black.eot");
-	src: url("../fonts/condensed/EncodeSansCondensed-Black.woff") format("woff"), 
-		 url("../fonts/condensed/EncodeSansCondensed-Black.ttf") format("truetype"), 
+	src: url("../fonts/condensed/EncodeSansCondensed-Black.woff") format("woff"),
+		 url("../fonts/condensed/EncodeSansCondensed-Black.ttf") format("truetype"),
 		 url("../fonts/condensed/EncodeSansCondensed-Black.svg") format("svg");
 	font-weight: 900;
 	font-style: normal;
@@ -61,8 +61,8 @@
 @font-face {
 	font-family: "Encode Sans Condensed";
 	src: url("../fonts/condensed/EncodeSansCondensed-Light.eot");
-	src: url("../fonts/condensed/EncodeSansCondensed-Light.woff") format("woff"), 
-		 url("../fonts/condensed/EncodeSansCondensed-Light.ttf") format("truetype"), 
+	src: url("../fonts/condensed/EncodeSansCondensed-Light.woff") format("woff"),
+		 url("../fonts/condensed/EncodeSansCondensed-Light.ttf") format("truetype"),
 		 url("../fonts/condensed/EncodeSansCondensed-Light.svg") format("svg");
 	font-weight: 300;
 	font-style: normal;
@@ -71,8 +71,8 @@
 @font-face {
 	font-family: "Encode Sans Condensed";
 	src: url("../fonts/condensed/EncodeSansCondensed-ExtraLight.eot");
-	src: url("../fonts/condensed/EncodeSansCondensed-ExtraLight.woff") format("woff"), 
-		 url("../fonts/condensed/EncodeSansCondensed-ExtraLight.ttf") format("truetype"), 
+	src: url("../fonts/condensed/EncodeSansCondensed-ExtraLight.woff") format("woff"),
+		 url("../fonts/condensed/EncodeSansCondensed-ExtraLight.ttf") format("truetype"),
 		 url("../fonts/condensed/EncodeSansCondensed-ExtraLight.svg") format("svg");
 	font-weight: 200;
 	font-style: normal;
@@ -81,8 +81,8 @@
 @font-face {
 	font-family: "Encode Sans Condensed";
 	src: url("../fonts/condensed/EncodeSansCondensed-Thin.eot");
-	src: url("../fonts/condensed/EncodeSansCondensed-Thin.woff") format("woff"), 
-		 url("../fonts/condensed/EncodeSansCondensed-Thin.ttf") format("truetype"), 
+	src: url("../fonts/condensed/EncodeSansCondensed-Thin.woff") format("woff"),
+		 url("../fonts/condensed/EncodeSansCondensed-Thin.ttf") format("truetype"),
 		 url("../fonts/condensed/EncodeSansCondensed-Thin.svg") format("svg");
 	font-weight: 200;
 	font-style: normal;

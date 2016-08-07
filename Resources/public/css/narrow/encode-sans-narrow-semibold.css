@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "Encode Sans Narrow SemiBold";
+	src: url("../../fonts/narrow/EncodeSansNarrow-SemiBold.eot");
+	src: url("../../fonts/narrow/EncodeSansNarrow-SemiBold.woff") format("woff"),
+		 url("../../fonts/narrow/EncodeSansNarrow-SemiBold.ttf") format("truetype"),
+		 url("../../fonts/narrow/EncodeSansNarrow-SemiBold.svg") format("svg");
+	font-weight: 600;
+	font-style: normal;
+}

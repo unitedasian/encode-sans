@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "Encode Sans Compressed Light";
+	src: url("../../fonts/compressed/EncodeSansCompressed-Light.eot");
+	src: url("../../fonts/compressed/EncodeSansCompressed-Light.woff") format("woff"),
+		 url("../../fonts/compressed/EncodeSansCompressed-Light.ttf") format("truetype"),
+		 url("../../fonts/compressed/EncodeSansCompressed-Light.svg") format("svg");
+	font-weight: 300;
+	font-style: normal;
+}

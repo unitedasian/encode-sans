@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "Encode Sans Narrow ExtraBold";
+	src: url("../../fonts/narrow/EncodeSansNarrow-ExtraBold.eot");
+	src: url("../../fonts/narrow/EncodeSansNarrow-ExtraBold.woff") format("woff"),
+		 url("../../fonts/narrow/EncodeSansNarrow-ExtraBold.ttf") format("truetype"),
+		 url("../../fonts/narrow/EncodeSansNarrow-ExtraBold.svg") format("svg");
+	font-weight: 800;
+	font-style: normal;
+}

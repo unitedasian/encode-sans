@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "Encode Sans Narrow Black";
+	src: url("../../fonts/narrow/EncodeSansNarrow-Black.eot");
+	src: url("../../fonts/narrow/EncodeSansNarrow-Black.woff") format("woff"),
+		 url("../../fonts/narrow/EncodeSansNarrow-Black.ttf") format("truetype"),
+		 url("../../fonts/narrow/EncodeSansNarrow-Black.svg") format("svg");
+	font-weight: 900;
+	font-style: normal;
+}

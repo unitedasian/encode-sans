@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "Encode Sans Wide Bold";
+	src: url("../../fonts/wide/EncodeSansWide-Bold.eot");
+	src: url("../../fonts/wide/EncodeSansWide-Bold.woff") format("woff"),
+		 url("../../fonts/wide/EncodeSansWide-Bold.ttf") format("truetype"),
+		 url("../../fonts/wide/EncodeSansWide-Bold.svg") format("svg");
+	font-weight: 700;
+	font-style: normal;
+}

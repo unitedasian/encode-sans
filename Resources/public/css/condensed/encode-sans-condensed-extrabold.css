@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "Encode Sans Condensed ExtraBold";
+	src: url("../../fonts/condensed/EncodeSansCondensed-ExtraBold.eot");
+	src: url("../../fonts/condensed/EncodeSansCondensed-ExtraBold.woff") format("woff"),
+		 url("../../fonts/condensed/EncodeSansCondensed-ExtraBold.ttf") format("truetype"),
+		 url("../../fonts/condensed/EncodeSansCondensed-ExtraBold.svg") format("svg");
+	font-weight: 800;
+	font-style: normal;
+}

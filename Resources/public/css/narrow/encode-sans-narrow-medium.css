@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "Encode Sans Narrow Msedium";
+	src: url("../../fonts/narrow/EncodeSansNarrow-Medium.eot");
+	src: url("../../fonts/narrow/EncodeSansNarrow-Medium.woff") format("woff"),
+		 url("../../fonts/narrow/EncodeSansNarrow-Medium.ttf") format("truetype"),
+		 url("../../fonts/narrow/EncodeSansNarrow-Medium.svg") format("svg");
+	font-weight: 500;
+	font-style: normal;
+}

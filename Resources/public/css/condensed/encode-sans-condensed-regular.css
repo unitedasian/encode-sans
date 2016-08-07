@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "Encode Sans Condensed";
+	src: url("../../fonts/condensed/EncodeSansCondensed-Regular.eot");
+	src: url("../../fonts/condensed/EncodeSansCondensed-Regular.woff") format("woff"),
+		 url("../../fonts/condensed/EncodeSansCondensed-Regular.ttf") format("truetype"),
+		 url("../../fonts/condensed/EncodeSansCondensed-Regular.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}

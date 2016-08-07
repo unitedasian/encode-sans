@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "Encode Sans Wide ExtraLight";
+	src: url("../../fonts/wide/EncodeSansWide-ExtraLight.eot");
+	src: url("../../fonts/wide/EncodeSansWide-ExtraLight.woff") format("woff"),
+		 url("../../fonts/wide/EncodeSansWide-ExtraLight.ttf") format("truetype"),
+		 url("../../fonts/wide/EncodeSansWide-ExtraLight.svg") format("svg");
+	font-weight: 200;
+	font-style: normal;
+}
