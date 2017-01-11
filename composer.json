@@ -1,10 +1,11 @@
 {
-	"name": "fonts/encode-sans",
+	"name": "unitedasian/encode-sans",
 	"type": "symfony-bundle",
 	"require": {
 		"symfony/http-kernel": "~2.8|~3.0"
 	},
 	"autoload": {
 		"psr-4": { "UAM\\Font\\EncodeSans\\": "" }
-	}
+	},
+	"license": "SIL Open Font License 1.1"
 }
