@@ -5,7 +5,12 @@
 		"symfony/http-kernel": "~2.8|~3.0"
 	},
 	"autoload": {
-		"psr-4": { "UAM\\Font\\EncodeSans\\": "" }
+		"psr-4": { "UAM\\Font\\EncodeSans\\": "src" }
 	},
-	"license": "SIL Open Font License 1.1"
+	"license": "SIL Open Font License 1.1",
+	"extra": {
+		"branch-alias": {
+			"dev-master": "1.0.x-dev"
+		}
+	}
 }
