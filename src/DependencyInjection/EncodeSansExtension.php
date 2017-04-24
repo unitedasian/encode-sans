@@ -34,7 +34,6 @@ class EncodeSansExtension extends Extension implements PrependExtensionInterface
         $config = $this->processConfiguration(new Configuration(), $configs);
 
         if (true === isset($bundles['AsseticBundle'])) {
-
             switch ($config['mode']) {
                 case Configuration::MODE_FAMILIES :
                     $this->configureFontFamilies($container);
@@ -42,14 +41,27 @@ class EncodeSansExtension extends Extension implements PrependExtensionInterface
 
                 case Configuration:MODE_INDIVIDUAL :
                     $this->configureIndividualFonts();
-//                    $this->configureEncodeSans();
-//                    $this->configureEncodeSansCompressed($container);
-//                    $this->configureEncodeSansCondensed($container);
-//                    $this->configureEncodeSansNarrow($container);
-//                    $this->configureEncodeSansWide($container);
                     break;
             }
         }
+
+        if (true === isset($bundles['MabaWebpackBundle'])) {
+            $this->configureMabaWebpackBundle($container, $config);
+        }
+    }
+
+    protected function configureMabaWebpackBundle($container, $config)
+    {
+        $container->prependExtensionConfig(
+            'maba_webpack',
+            array(
+                'aliases' => array(
+                    'additional' => array(
+                        'uam_encode_sans' => '%kernel.root_dir%/../vendor/unitedasian/encode-sans/src/Resources/public',
+                    ),
+                ),
+            )
+        );
     }
 
     protected function configureFontFamilies($container)
